@@ -9,3 +9,4 @@ sudo systemctl isolate graphical.target
 // OFF
 sudo systemctl isolate multi-user.target
 ```
+Nếu muốn đặt làm mặc định thì `set-default`
